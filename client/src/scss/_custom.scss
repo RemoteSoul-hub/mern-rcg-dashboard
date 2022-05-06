@@ -1,0 +1,41 @@
+// Here you can add other styles
+
+.sidebar-brand {
+    background-color: #2B3E59;
+}
+
+.sidebar-nav {
+    background-color: #162438;
+}
+
+.mx-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1.2rem;
+}
+
+.font-bold {
+    font-weight: 600;
+}
+
+.header-sticky {
+    background-color: #2B3E59;
+    color: white;
+}
+
+.white {
+    color: white;
+}
+
+.button {
+    background-color: #E99557;
+    outline: #E99557;
+    border: none;
+}
